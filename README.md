@@ -15,6 +15,6 @@ This project uses Kafka, Quix Streams, and Streamlit to show real-time KPIs from
 
 ## Dashboard Screenshot
 
-![dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.png)
 
 
